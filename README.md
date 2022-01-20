@@ -1,4 +1,4 @@
 # Simple Soft Body Simulation
-C++ code for a simple particle mass-spring soft body simulation, with rigid obstacles.  Rendered using OpenGL.
+C++ code for a simple soft body simulation that contains rigid obstacles, and is based on a particle mass-spring model.  Euler integration is performed at each time step to determine the next state of the simualtion.  Rendered using OpenGL.
 
-<iframe src="https://giphy.com/embed/WjKlho1bwc8VilfsGN" width="480" height="478" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/WjKlho1bwc8VilfsGN">via GIPHY</a></p>
+![hippo](https://media1.giphy.com/media/WjKlho1bwc8VilfsGN/giphy.gif?cid=790b761110743a1bfc00beef852cbdeeeb8f9f2d65032d2e&rid=giphy.gif&ct=g)
